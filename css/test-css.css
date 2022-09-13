@@ -6,3 +6,19 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+.triangle{
+	width:1px;
+	height:1px;
+	border:1px solid #069;
+	border-color:transparent transparent #069 transparent;
+	border-width:100px;
+}
+
+.trapeze{
+	width:1px;
+	height:100px;
+	border:1px solid #069;
+	border-color:transparent transparent transparent #069;
+	border-width:100px;
+}
